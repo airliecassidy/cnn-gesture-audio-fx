@@ -420,5 +420,3 @@ if __name__ == '__main__':
     # Create sample dataset structure
     download_hagrid_sample()
     
-    # Example: Prepare dataset (requires actual HaGRID data)
-    # prepare_hagrid_dataset('./hagrid_data', './hagrid_processed')
