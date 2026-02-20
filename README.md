@@ -6,6 +6,7 @@ This project is an expansion of my previous MediaPipe-Max-Gesture-Audio-Effects.
 # Hand Role Logic
 Right Hand: effect selection - gesture classification via CNN
 - Effect selection works, depth frozen at last value
+
 Left Hand: effect depth - pinch distance (euclidean distance between thumb and index finger) 
 - Effect selection unchanged, depth control active.
 
