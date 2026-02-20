@@ -35,6 +35,8 @@ This system includes a calibration routine for pinch distance
 3. Spread thumb and index finger OPEN, press C to capture maximum
 4. Calibration complete - depth control is now personalized
 
+This resolved the issue resulted from the distance being measured from the laptop camera, as well as varying hand sizes while using the model. Provides normalization to the effect depth per user. 
+
 
 # Model Statistics 
 
